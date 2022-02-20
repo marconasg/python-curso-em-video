@@ -1,6 +1,6 @@
 ![](assets/top-reps-pythoncev.jpg)
 
-# Curso de Python 3 >_ Curso em Vídeo
+# Curso de Python 3 / Curso em Vídeo
 Criei esse repositório para colocar todos os execercícios resolvidos referente ao Curso de Python 3 do Canal Curso em Vídeo. Vários exercícios tão comentados para ajudar no entendimento do código.
 
 ## Curso completo no YouTube:
